@@ -160,6 +160,7 @@ TODO: Описать.
 		1. Подтянуть последние изменения из репозитория (кнопка Fetch origin)
 		2. Закоммитить изменения (кнопка Commit to master)
 		3. Запушить изменения (кнопка Push origin)
+	3. Более подробная инструкция по работе Obsidian с GitHub репозиторием: ([https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/](https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/))
 
 Рабочие группы
 ==============
